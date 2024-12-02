@@ -11,11 +11,11 @@
 🔹 Experienced in **MERN Stack**, **PHP/Laravel**, and **Flutter** for Mobile Apps.  
 🔹 Love crafting seamless user experiences and sharing knowledge with others.  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaymahato431&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ### 📊 GitHub Stats  
 <div align="center">
-  [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaymahato431)](https://github.com/ajaymahato431/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaymahato431&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
