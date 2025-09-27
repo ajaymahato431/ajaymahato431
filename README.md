@@ -16,9 +16,15 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajaymahato431/ajaymahato431/main/metrics.svg" alt="GitHub metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymahato431&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymahato431&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaymahato431&layout=compact&theme=radical&langs_count=8" height="160"/>
 </p>
 
 ---
