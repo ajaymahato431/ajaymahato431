@@ -17,11 +17,9 @@
 ---
 
 ### 📊 GitHub Insights
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajaymahato431/ajaymahato431/main/metrics.svg" alt="GitHub metrics" />
 </p>
-
 
 ---
 
