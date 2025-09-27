@@ -16,16 +16,21 @@
 
 ---
 
-### 📊 GitHub Insights  
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymahato431&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymahato431&theme=radical" height="160" />
+  <!-- GitHub Readme Stats (private commits included via PAT_1 on your deployment) -->
+  <img src="https://ajaymahato-stats.vercel.app/api?username=ajaymahato431&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160" />
+  
+  <!-- Streak Stats (uses GH_TOKEN on your deployment) -->
+  <img src="https://ajaymahato-streak.vercel.app?user=ajaymahato431&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaymahato431&layout=compact&theme=radical&langs_count=8" height="160"/>
+  <!-- Top Languages (reads via your tokenized deployment) -->
+  <img src="https://ajaymahato-stats.vercel.app/api/top-langs?username=ajaymahato431&layout=compact&langs_count=8&theme=radical" height="160" />
 </p>
+
 
 ---
 
